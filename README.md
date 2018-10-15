@@ -1,3 +1,3 @@
 # Gradient-Descent
 
-Gradient descent for 5 iteratins.
+Gradient descent for 5 iterations.
